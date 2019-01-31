@@ -10,10 +10,10 @@
 
     <test name="Go to Home page" preserve-order="true">
         <classes>
-            <class name="iPhone.ButtonTest"/>
-            <class name="iPhone.TextFieldsTest"/>
-            <class name="iPhone.PickerTest"/>
-            <class name="iPhone.AlertsTest"/>
+            <class name="iPhone.salma.TestButtons"/>
+            <class name="iPhone.salma.TextFieldsTest"/>
+            <class name="iPhone.salma.PickerTest"/>
+            <class name="iPhone.salma.TestAlerts"/>
         </classes>
     </test>
 </suite>
